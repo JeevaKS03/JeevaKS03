@@ -27,12 +27,9 @@ React, HTML, CSS
 
 AI & ML
 
-TensorFlow Lite, PyTorch, OpenCV
+TensorFlow , OpenCV
 
 YOLO, TinyLlama, Ollama
-
-NLP & Data Science
-
 
 Embedded Systems & IoT
 
@@ -40,7 +37,7 @@ ESP32, Raspberry Pi, Arduino
 
 Firebase, Blynk, ThingSpeak
 
-Sensors (MAX30102, DS18B20, MQ-135, etc.)
+Sensors (MAX30102, DS18B20, MQ-135, Peltier, DHT11 ,ESPCAM ,Servo ,UltraSonic etc.)
 
 
 🔧 Tools & Platforms
